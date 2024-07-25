@@ -1,0 +1,34 @@
+h3 {
+    color:blue;
+}
+.login-box{
+    height:250px;
+    width:400px;
+    /* border:solid 1px black; */
+    margin-top:100px;
+    margin-left:500px;
+    padding:5px 10px 5px 10px ;
+    border-radius:15px;
+    background-color:wheat;
+    box-shadow:3px 2px 3px;
+}
+
+.forms{
+    display:grid;
+    margin-top:5px;
+   
+}
+input{
+    margin-top:10px;
+   
+}
+.login{
+    width:60px;
+    background:pink;
+    border:2px solid pink;
+    border-radius:5px;
+   
+}
+.option{
+    padding-top:30px;
+}
